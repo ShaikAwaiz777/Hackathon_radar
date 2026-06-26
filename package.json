@@ -1,0 +1,14 @@
+{
+  "name": "hackathon-radar",
+  "version": "1.0.0",
+  "description": "Daily Telegram alerts for new Indian government hackathons",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "node-fetch": "^3.3.2"
+  }
+}
